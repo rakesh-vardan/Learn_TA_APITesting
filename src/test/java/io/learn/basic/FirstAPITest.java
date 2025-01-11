@@ -1,4 +1,4 @@
-package io.learn;
+package io.learn.basic;
 
 import org.testng.annotations.Test;
 
